@@ -18,11 +18,13 @@ Browse and search your [Clipy](https://clipy-app.com) clipboard history in a fas
 
 ## Requirements
 
-- **macOS** (uses `sips`, `osascript`, and `pbcopy` — all built in)
+- **macOS** — macOS only; uses `sips`, `osascript`, and `pbcopy` (all built in)
 - **Python 3.6+** — the system Python at `/usr/bin/python3` works fine; no pip installs needed
 - **[Clipy](https://clipy-app.com)** installed and running
 
 No third-party dependencies.
+
+> **Tested with:** Clipy v1.2.1 on macOS. Other versions may work but have not been verified.
 
 ## Installation
 
