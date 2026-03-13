@@ -27,7 +27,7 @@ No third-party dependencies.
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/clipysearch.git
+git clone https://github.com/kcorey/clipysearch.git
 cd clipysearch
 chmod +x clipysearch.py
 ```
